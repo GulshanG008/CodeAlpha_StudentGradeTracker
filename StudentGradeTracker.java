@@ -1,4 +1,4 @@
-package CodeAlpha_StudentGradeTracker;
+package CodeAlpha_Internship;
 
 import java.util.ArrayList;
 import java.util.Scanner;
